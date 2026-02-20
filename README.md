@@ -169,7 +169,8 @@ Task: Task 04 – Hand Gesture Recognition
 
 Parnika Guntoju
 
-Machine Learning Intern | Data Analytics Enthusiast
+Machine Learning Intern 
+
 
 
 
